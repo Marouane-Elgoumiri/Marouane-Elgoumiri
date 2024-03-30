@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Marouane Elgoumiri</h1>
 <p align="center">
-  <img src="https://your-profile-image-url" width="150" height="150" alt="Your Name">
+  <img src="https://your-profile-image-url](https://res.cloudinary.com/dtp0lqhke/image/upload/v1711840066/1704226025220_lfs7uf.jpg" width="150" height="150" alt="Your Name">
 </p>
 
 <!-- About Me -->
@@ -17,7 +17,7 @@ Leveling up 🚀.
 
 <!-- Projects -->
 ## Projects
-- [Project 1]((https://github.com/Marouane-Elgoumiri/job_board.git)): JobBoard with MERN Stack.
+- [Project 1](https://github.com/Marouane-Elgoumiri/job_board.git): JobBoard with MERN Stack.
 - [Project 2](https://github.com/your-username/project-2): Description of project 2.
 - [Project 3](https://github.com/your-username/project-3): Description of project 3.
 
