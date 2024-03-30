@@ -18,8 +18,8 @@ Leveling up 🚀.
 <!-- Projects -->
 ## Projects
 - [Project 1](https://github.com/Marouane-Elgoumiri/job_board.git): JobBoard with MERN Stack.
-- [Project 2](https://github.com/your-username/project-2): Description of project 2.
-- [Project 3](https://github.com/your-username/project-3): Description of project 3.
+- [Project 2](https://github.com/Marouane-Elgoumiri/TMSapp.git): Transport Management System.
+- [Project 3](https://github.com/Marouane-Elgoumiri/task_manager.git): Task Manager with Spring Boot.
 
 <!-- Contact Me -->
 ## Contact Me
