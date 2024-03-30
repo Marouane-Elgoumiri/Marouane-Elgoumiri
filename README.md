@@ -1,18 +1,34 @@
-### Hi there 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<!--
-**Marouane-Elgoumiri/Marouane-Elgoumiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header -->
+<h1 align="center">Your Name</h1>
+<p align="center">
+  <img src="https://your-profile-image-url" width="150" height="150" alt="Your Name">
+</p>
 
-Here are some ideas to get you started:
+<!-- About Me -->
+## About Me
+I'm a passionate developer who loves creating amazing software. My interests lie in web development, machine learning, and open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Skills -->
+## Skills
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Frameworks/Libraries:** React, Node.js, TensorFlow
+- **Databases:** MongoDB, PostgreSQL
+- **Other:** Git, Docker, AWS
+
+<!-- Projects -->
+## Projects
+- [Project 1](https://github.com/your-username/project-1): Description of project 1.
+- [Project 2](https://github.com/your-username/project-2): Description of project 2.
+- [Project 3](https://github.com/your-username/project-3): Description of project 3.
+
+<!-- Contact Me -->
+## Contact Me
+- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+- [Portfolio](https://yourportfolio.com)
+
+<!-- Footer -->
+<footer>
+  <p align="center">Made with ❤️ by Your Name</p>
+</footer>
