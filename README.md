@@ -10,8 +10,8 @@ Leveling up 🚀.
 
 <!-- Skills -->
 ## Skills
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Frameworks/Libraries:** React, Node.js, TensorFlow
+- **Languages:** HTML, CSS, JavaScript, Python, Java
+- **Frameworks/Libraries:** React, Node.js, Next.
 - **Databases:** MongoDB, PostgreSQL
 - **Other:** Git, Docker, AWS
 
@@ -24,8 +24,8 @@ Leveling up 🚀.
 <!-- Contact Me -->
 ## Contact Me
 - [Email](mailto:Mar.Elgoumiri@hotmail.com)
-- [LinkedIn](www.linkedin.com/in/marwan-elgoumiri-2a0469207)
-- [Portfolio]([https://yourportfolio.com](https://marouane-elgoumiri.github.io/portfolio/))
+- [LinkedIn](www.linkedin.com/in/marwan-elgoumiri)
+- [Portfolio](https://marouane-elgoumiri.github.io/portfolio/)
 
 <!-- Footer -->
 <footer>
