@@ -24,7 +24,7 @@ Leveling up 🚀.
 <!-- Contact Me -->
 ## Contact Me
 - [Email](mailto:Mar.Elgoumiri@hotmail.com)
-- [LinkedIn](www.linkedin.com/in/marwan-elgoumiri)
+- [LinkedIn](https://www.linkedin.com/in/marwan-elgoumiri-2a0469207/)
 - [Portfolio](https://marouane-elgoumiri.github.io/portfolio/)
 
 <!-- Footer -->
