@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Marouane Elgoumiri</h1>
 <p align="center">
-  <img src="https://your-profile-image-url](https://res.cloudinary.com/dtp0lqhke/image/upload/v1711840066/1704226025220_lfs7uf.jpg" width="150" height="150" alt="Your Name">
+  <img src="https://res.cloudinary.com/dtp0lqhke/image/upload/v1711840066/1704226025220_lfs7uf.jpg" width="150" height="150" alt="Your Name">
 </p>
 
 <!-- About Me -->
