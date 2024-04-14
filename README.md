@@ -66,12 +66,15 @@ Leveling up 🚀.
 </div>
 
 ## Stats
-
 <div align="center">
-	![Marouane-Elgoumiri's Stats](https://github-readme-stats.vercel.app/api?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br/>
-	![Marouane-Elgoumiri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marouane-Elgoumiri&theme=tokyonight&hide_border=false)<br/>
-	![Marouane-Elgoumiri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Marouane-Elgoumiri's Stats">
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marouane-Elgoumiri&theme=tokyonight&hide_border=false" alt="Marouane-Elgoumiri's Streak">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Marouane-Elgoumiri's Top Languages">
 </div>
+
+
 
 <!-- Footer -->
 <footer>
