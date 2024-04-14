@@ -27,6 +27,8 @@ Leveling up 🚀.
 - [LinkedIn](https://www.linkedin.com/in/marwan-elgoumiri-2a0469207/)
 - [Portfolio](https://marouane-elgoumiri.github.io/portfolio/)
 
+## Stats
+![Marouane-Elgoumiri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 <!-- Footer -->
 <footer>
   <p align="center">Made with ❤️ by MR1</p>
