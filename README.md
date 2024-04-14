@@ -8,13 +8,6 @@
 ## About Me
 Leveling up 🚀.
 
-<!-- Skills -->
-## Skills
-- **Languages:** HTML, CSS, JavaScript, Python, Java
-- **Frameworks/Libraries:** React, Node.js, Next.
-- **Databases:** MongoDB, PostgreSQL
-- **Other:** Git, Docker, AWS
-
 <!-- Projects -->
 ## Projects
 - [Project 1](https://github.com/Marouane-Elgoumiri/job_board.git): JobBoard with MERN Stack.
