@@ -66,9 +66,13 @@ Leveling up 🚀.
 </div>
 
 ## Stats
-![Marouane-Elgoumiri's Stats](https://github-readme-stats.vercel.app/api?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br/>
-![Marouane-Elgoumiri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marouane-Elgoumiri&theme=tokyonight&hide_border=false)<br/>
-![Marouane-Elgoumiri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+<div align="center">
+	![Marouane-Elgoumiri's Stats](https://github-readme-stats.vercel.app/api?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br/>
+	![Marouane-Elgoumiri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marouane-Elgoumiri&theme=tokyonight&hide_border=false)<br/>
+	![Marouane-Elgoumiri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+</div>
+
 <!-- Footer -->
 <footer>
   <p align="center">Made with ❤️ by MR1</p>
