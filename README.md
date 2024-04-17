@@ -17,7 +17,7 @@ Leveling up 🚀.
 - [Project 3](https://github.com/Marouane-Elgoumiri/task_manager.git): Task Manager with Spring Boot.
 
 <!-- Contact Me -->
-## Contact Me
+## Social
 <div align="center">
 	
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/marouane_elgoum1)
@@ -26,7 +26,7 @@ Leveling up 🚀.
 
 </div>
 
-## Social
+## Contact Me 
 
 <div align="center">
 	
