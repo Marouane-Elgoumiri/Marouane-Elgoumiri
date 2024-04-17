@@ -22,11 +22,13 @@ Leveling up 🚀.
 	
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/marouane_elgoum1)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/_MR1_)
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marouane-elgoumiri.github.io/portfolio/)
+
+## Social
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-elgoumiri-2a0469207/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mar.Elgoumiri@hotmail.com)
 [![Reddit](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/VonWaffe/)
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marouane-elgoumiri.github.io/portfolio/)
-
   
 </div>
 
