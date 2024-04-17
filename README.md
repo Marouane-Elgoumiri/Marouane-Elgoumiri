@@ -87,7 +87,9 @@ Leveling up 🚀.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Marouane-Elgoumiri's Top Languages">
 </div>
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Marouane-Elgoumiri&label=Profile%20Views&color=11&icon=5&pretty=true" />
+</a>
 
 <!-- Footer -->
 <footer>
