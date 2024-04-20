@@ -13,7 +13,21 @@ Leveling up 🚀.
 <!-- Projects -->
 ## Projects
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=job_board&theme=tokyonight)](https://github.com/Marouane-Elgoumiri/job_board) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=task_manager&theme=tokyonight)](https://github.com/Marouane-Elgoumiri/task_manager) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=CodeAlpha_task1&theme=tokyonight)](https://github.com/Marouane-Elgoumiri/CodeAlpha_task1) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Python_Challenges&theme=tokyonight)](https://github.com/Marouane-Elgoumiri/Python_Challenges)
+<div align="center">
+  <a href="https://github.com/Marouane-Elgoumiri/job_board">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=job_board&theme=tokyonight" alt="Job Board" style="max-width: 300px; width: 100%;">
+  </a>
+  <a href="https://github.com/Marouane-Elgoumiri/task_manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=task_manager&theme=tokyonight" alt="Task Manager" style="max-width: 300px; width: 100%;">
+  </a>
+  <a href="https://github.com/Marouane-Elgoumiri/CodeAlpha_task1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=CodeAlpha_task1&theme=tokyonight" alt="CodeAlpha Task 1" style="max-width: 300px; width: 100%;">
+  </a>
+  <a href="https://github.com/Marouane-Elgoumiri/Python_Challenges">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Python_Challenges&theme=tokyonight" alt="Python Challenges" style="max-width: 300px; width: 100%;">
+  </a>
+</div>
+
 
 
 <!-- Contact Me -->
