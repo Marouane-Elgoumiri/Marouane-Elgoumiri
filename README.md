@@ -1,5 +1,10 @@
 <!-- Header -->
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A425C8&background=0D1A3373&center=true&random=false&width=435&lines=Welcome+to+my+labyrinth+%F0%9F%98%8A;Thank+you+for+your+visit+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+</div>
+
 
 ![GitHub](https://img.shields.io/github/followers/Marouane-Elgoumiri.svg?style=social&label=Follow&maxAge=2592000])
 <p align="center">
