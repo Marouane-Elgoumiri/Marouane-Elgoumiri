@@ -97,7 +97,7 @@ Leveling up 🚀.
 
 ## View Repos:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=job_board)](https://github.com/Marouane-Elgoumiri/job_board)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=job_board&theme=tokyonight)](https://github.com/Marouane-Elgoumiri/job_board)
 
 
 <a href="https://visitcount.itsvg.in">
