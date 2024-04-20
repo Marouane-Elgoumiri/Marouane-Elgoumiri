@@ -90,15 +90,17 @@ Leveling up 🚀.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marouane-Elgoumiri&theme=tokyonight&hide_border=false" alt="Marouane-Elgoumiri's Streak">
 <br>
     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Marouane-Elgoumiri's Top Languages">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouane-Elgoumiri&langs_count=8&theme=tokyonight)
 
 </div>
 
+## View Repos:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=job_board)](https://github.com/Marouane-Elgoumiri/job_board)
 
 
-<a href="https://visitcount.itsvg.in" align="center">
+<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Marouane-Elgoumiri&label=Profile%20Views&color=11&icon=5&pretty=true" />
 </a>
 
