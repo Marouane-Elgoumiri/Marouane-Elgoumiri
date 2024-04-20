@@ -13,7 +13,7 @@ Leveling up 🚀.
 <!-- Projects -->
 ## Projects
 | | | |
-| :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=job_board&theme=tokyonight)](https://github.com/Marouane-Elgoumiri/job_board) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=task_manager&theme=tokyonight)](https://github.com/Marouane-Elgoumiri/task_manager) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=CodeAlpha_task1&theme=tokyonight)](https://github.com/Marouane-Elgoumiri/CodeAlpha_task1) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Python_Challenges&theme=tokyonight)](https://github.com/Marouane-Elgoumiri/Python_Challenges)
 
 
