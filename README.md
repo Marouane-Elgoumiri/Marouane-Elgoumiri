@@ -46,7 +46,10 @@ Leveling up 🚀.
 	
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/marouane_elgoum1)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/_MR1_)
+[![TryHackMe](https://tryhackme.com/badge/2810464)
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marouane-elgoumiri.github.io/portfolio/)
+<img src="https://tryhackme-badges.s3.amazonaws.com/marouane.elgoumi.png" alt="TryHackMe">
+
 
 </div>
 
