@@ -58,8 +58,8 @@ Leveling up 🚀.
 	
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-elgoumiri-2a0469207/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mar.Elgoumiri@hotmail.com)
-[![Reddit](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/VonWaffe/)
-  
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/VonWaffe/)
+
 </div>
 
 ## Tech Stack
