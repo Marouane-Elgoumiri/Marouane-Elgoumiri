@@ -111,10 +111,10 @@ Leveling up 🚀.
 ## Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Marouane-Elgoumiri's Stats">
-<br>
+<br/>
     
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marouane-Elgoumiri&theme=tokyonight&hide_border=false" alt="Marouane-Elgoumiri's Streak">
-<br>
+<br/>
     
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouane-Elgoumiri&langs_count=8&theme=tokyonight)
