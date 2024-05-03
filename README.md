@@ -116,8 +116,11 @@ Leveling up 🚀.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marouane-Elgoumiri&theme=tokyonight&hide_border=false" alt="Marouane-Elgoumiri's Streak">
 <br/>
     
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marouane-Elgoumiri&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marouane-Elgoumiri&theme=tokyonight)
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marouane-Elgoumiri&langs_count=8&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marouane-Elgoumiri&theme=tokyonight)
 
 </div>
 
