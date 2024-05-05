@@ -124,6 +124,13 @@ Leveling up 🚀.
 
 </div>
 
+## My GitHub Contribution Snake Game
+
+![GitHub Contribution Snake Game](dist/github-snake.svg)
+
+[![Dark Theme](dist/github-snake-dark.svg)](dist/github-snake-dark.svg)
+
+[![Animated Version](dist/ocean.gif)](dist/ocean.gif)
 
 
 
