@@ -15,6 +15,10 @@
 ## About Me
 Leveling up 🚀.
 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!-- Projects -->
 ## Projects
 
@@ -44,6 +48,7 @@ Leveling up 🚀.
 ## Social
 <div align="center">
 	
+![Doge](https://git.io/Doge)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/marouane_elgoum1)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/_MR1_)
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marouane-elgoumiri.github.io/portfolio/)<br/>
@@ -124,7 +129,7 @@ Leveling up 🚀.
 
 </div>
 
-## My GitHub Contribution Snake Game
+
 
 ![GitHub Contribution Snake Game](dist/github-snake.svg)
 
