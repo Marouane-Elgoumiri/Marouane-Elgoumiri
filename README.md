@@ -129,21 +129,6 @@ Leveling up 🚀.
 
 </div>
 
-
-
-![GitHub Contribution Snake Game](dist/github-snake.svg)
-
-[![Dark Theme](dist/github-snake-dark.svg)](dist/github-snake-dark.svg)
-
-[![Animated Version](dist/ocean.gif)](dist/ocean.gif)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Marouane-Elgoumiri&label=Profile%20Views&color=11&icon=5&pretty=true" />
 </a>
