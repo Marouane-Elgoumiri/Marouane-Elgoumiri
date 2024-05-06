@@ -129,6 +129,8 @@ Leveling up 🚀.
 
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/Marouane-Elgoumiri/Marouane-Elgoumiri/output/github-contribution-grid-snake-dark.svg)
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Marouane-Elgoumiri&label=Profile%20Views&color=11&icon=5&pretty=true" />
 </a>
