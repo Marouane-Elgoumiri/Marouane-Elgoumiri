@@ -10,6 +10,11 @@
 <p align="center">
   <img src="https://res.cloudinary.com/dtp0lqhke/image/upload/v1711840066/1704226025220_lfs7uf.jpg" alt="Your Name">
 </p>
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Marouane-Elgoumiri&theme=discord)](https://github.com/Marouane-Elgoumiri/github-profile-trophy)
+ 
+</div>
 
 <!-- About Me -->
 ## About Me
