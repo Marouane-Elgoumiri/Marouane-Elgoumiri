@@ -17,7 +17,7 @@
 </div>
 
 <!-- About Me -->
-## About Me
+## 🧑🏻‍💻 About Me
 Leveling up 🚀.
 
 <!-- Markdown -->
@@ -25,7 +25,7 @@ Leveling up 🚀.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- Projects -->
-## Projects
+## 📚 Projects
 
 <div align="center">
   <div style="display: flex; justify-content: center;">
@@ -50,7 +50,7 @@ Leveling up 🚀.
 
 
 <!-- Contact Me -->
-## Social
+## 🛜 Social
 <div align="center">
 	
 ![Doge](https://git.io/Doge)
@@ -62,7 +62,7 @@ Leveling up 🚀.
 
 </div>
 
-## Contact Me 
+## 🌐 Contact Me 
 
 <div align="center">
 	
@@ -72,7 +72,7 @@ Leveling up 🚀.
 
 </div>
 
-## Tech Stack
+## 🛠️ Tech Stack & Tools
 <div align="center">
 	<table>
 		<tr>
@@ -118,7 +118,7 @@ Leveling up 🚀.
 	</table>
 </div>
 
-## Stats
+## 🌠 Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Marouane-Elgoumiri's Stats">
 <br/>
