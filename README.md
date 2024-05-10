@@ -44,6 +44,14 @@ Leveling up 🚀.
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Python_Challenges&theme=tokyonight" alt="Python Challenges" style="max-width: 50px;">
     </a>
   </div>
+  <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/Marouane-Elgoumiri/SolveQuiz">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=SolveQuiz&theme=tokyonight" alt="CodeAlpha Task 1" style="max-width: 50px;">
+    </a>
+    <a href="https://github.com/Marouane-Elgoumiri/Blog_App_SpringBoot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Blog_App_SpringBoot&theme=tokyonight" alt="Python Challenges" style="max-width: 50px;">
+    </a>
+  </div>
 </div>
 
 
