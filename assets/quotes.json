@@ -1,0 +1,184 @@
+# CODAI
+
+> software_quotes.json
+
+```json
+{
+    "quotes": [
+        {
+            "id": 1,
+            "quote": "Give someone a program; you frustrate them for a day; teach them how to program, and you frustrate them for a lifetime",
+            "author": "David Leinweber"
+        },
+        {
+            "id": 2,
+            "quote": "Don’t comment bad code – rewrite it",
+            "author": "Brian Kernighan"
+        },
+        {
+            "id": 3,
+            "quote": "No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first",
+            "author": "Andy Hunt"
+        },
+        {
+            "id": 4,
+            "quote": "A programming language is for thinking about programs, not for expressing programs you’ve already thought of. It should be a pencil, not a pen",
+            "author": "Paul Graham"
+        },
+        {
+            "id": 5,
+            "quote": "Sometimes it pays to stay in bed on Monday rather than spending the rest of the week debugging Monday’s code",
+            "author": "Dan Salomon"
+        },
+        {
+            "id": 6,
+            "quote": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships",
+            "author": "Linus Torvalds"
+        },
+        {
+            "id": 7,
+            "quote": "Debugging becomes significantly easier if you first admit that you are the problem",
+            "author": "William Laeder"
+        },
+        {
+            "id": 8,
+            "quote": "It´s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive",
+            "author": "Steve McConnell"
+        },
+        {
+            "id": 9,
+            "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand",
+            "author": "Martin Fowler"
+        },
+        {
+            "id": 10,
+            "quote": "One of my most productive days was throwing away 1000 lines of code",
+            "author": "Ken Thompson"
+        },
+        {
+            "id": 11,
+            "quote": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it",
+            "author": "Rajanand"
+        },
+        {
+            "id": 12,
+            "quote": "Everyday life is like programming, I guess. If you love something, you can put beauty into it",
+            "author": "Donald Knuth"
+        },
+        {
+            "id": 13,
+            "quote": "Everybody in this country should learn to program a computer because it teaches you how to think",
+            "author": "Steve Jobs"
+        },
+        {
+            "id": 14,
+            "quote": "System programmers are the high priests of a low cult",
+            "author": "Robert S. Barton"
+        },
+        {
+            "id": 15,
+            "quote": "A good programmer is someone who always looks both ways before crossing a one-way street",
+            "author": "Doug Linder"
+        },
+        {
+            "id": 16,
+            "quote": "I don’t care if it works on your machine! We are not shipping your machine",
+            "author": "Vidiu Platon"
+        },
+        {
+            "id": 17,
+            "quote": "Fix the cause, not the symptom",
+            "author": "Steve Maguire"
+        },
+        {
+            "id": 18,
+            "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight",
+            "author": "Bill Gates"
+        },
+        {
+            "id": 19,
+            "quote": "In programming, the hard part isn’t solving problems but deciding what problems to solve",
+            "author": "Paul Graham"
+        },
+        {
+            "id": 20,
+            "quote": "If debudding is the process of removing software bugs, then programming must be the process of putting them in",
+            "author": "Edsger W. Dijkstra"
+        },
+        {
+            "id": 21,
+            "quote": "First, solve the problem. Then write the code",
+            "author": "John Johnson"
+        },
+        {
+            "id": 22,
+            "quote": "The computer was born to solve problems that did not exist before",
+            "author": "Bill Gates"
+        },
+        {
+            "id": 23,
+            "quote": "Make it work, make it right, make it fast",
+            "author": "Kent Beck"
+        },
+        {
+            "id": 24,
+            "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
+            "author": "Rick Osborne"
+        },
+        {
+            "id": 25,
+            "quote": "People don’t care about what you say, they care about what you build",
+            "author": "Mark Zuckerberg"
+        },
+        {
+            "id": 26,
+            "quote": "As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow",
+            "author": "Doug McIlroy"
+        },
+        {
+            "id": 27,
+            "quote": "We have to stop optimizing for programmers and start optimizing for users",
+            "author": "Jeff Atwood"
+        },
+        {
+            "id": 28,
+            "quote": "There is a big difference between making a simple product & making a product simple",
+            "author": "Des Traynor"
+        },
+        {
+            "id": 29,
+            "quote": "If the code and the comments do not match, possibly both are incorrect",
+            "author": "Norm Schryer"
+        },
+        {
+            "id": 30,
+            "quote": "Before software can be reusable it first has to be usable",
+            "author": "Ralph Johnson"
+        },
+        {
+            "id": 31,
+            "quote": "If you optimize everything, you will always be unhappy",
+            "author": "Donald Knuth"
+        },
+        {
+            "id": 32,
+            "quote": "Your mind is programmable – if you’re not programming your mind, else will program it for you",
+            "author": "Jeremy Hammond"
+        },
+        {
+            "id": 33,
+            "quote": "Experience is the name everyone gives to their mistakes",
+            "author": "Oscar Wilde"
+        },
+        {
+            "id": 34,
+            "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late",
+            "author": "Seymour Cray"
+        },
+        {
+            "id": 35,
+            "quote": "Coding is solving math problems while programming is using coding to solve real world problems",
+            "author": "MR1"
+        },
+      
+           
