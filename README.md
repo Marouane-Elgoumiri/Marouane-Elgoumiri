@@ -144,7 +144,12 @@ Leveling up 🚀.
 
 ## 💀 Ainz's teaching:
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?Category=programming&theme=tokyonight&animation=grow_out_in)
+<div align="center">
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?animation=grow_out_in?quotesUrl=https://github.com/Marouane-Elgoumiri/Marouane-Elgoumiri/blob/main/assets/quotes.json&theme=tokyonight&layout=socrates)
+
+</div>
+
 
 ![Snake animation](https://raw.githubusercontent.com/Marouane-Elgoumiri/Marouane-Elgoumiri/output/github-contribution-grid-snake-dark.svg)
 
