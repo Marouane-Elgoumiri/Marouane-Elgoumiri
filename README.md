@@ -78,7 +78,7 @@ Leveling up 🚀.
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marouane.elgoumiri@e-polytechnique.ma)
 [![Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:Mar.Elgoumiri@hotmail.com)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/VonWaffe/)
-
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/VonJaeger/1182321857089781912)
 </div>
 
 ## 🛠️ Tech Stack & Tools
