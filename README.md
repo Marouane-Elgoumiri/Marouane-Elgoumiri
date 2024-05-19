@@ -12,7 +12,7 @@
 </p>
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Marouane-Elgoumiri&row=1&column=8&no-bg=false&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Marouane-Elgoumiri&row=1&column=8&count_private=true&no-bg=false&theme=radical)
 
 </div>
 
