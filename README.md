@@ -147,7 +147,7 @@ Leveling up 🚀.
 
 <div align="center">
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?animation=grow_out_in?quotesUrl=https://github.com/Marouane-Elgoumiri/Marouane-Elgoumiri/blob/main/assets/quotes.json&theme=tokyonight)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/Marouane-Elgoumiri/Marouane-Elgoumiri/blob/main/assets/quotes.json&theme=tokyonight&animation=grow_out_in)
 
 </div>
 
