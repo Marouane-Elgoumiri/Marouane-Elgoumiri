@@ -132,14 +132,14 @@ Leveling up 🚀.
 <img src="https://github-readme-stats.vercel.app/api?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Marouane-Elgoumiri's Stats">
 <br/>
     
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marouane-Elgoumiri&theme=tokyonight&hide_border=false" alt="Marouane-Elgoumiri's Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marouane-Elgoumiri&theme=tokyonight&count_private=true&hide_border=false" alt="Marouane-Elgoumiri's Streak">
 <br/>
     
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marouane-Elgoumiri&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marouane-Elgoumiri&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marouane-Elgoumiri&count_private=true&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marouane-Elgoumiri&count_private=true&theme=tokyonight)
 <br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marouane-Elgoumiri&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marouane-Elgoumiri&count_private=true&theme=tokyonight)
 
 </div>
 
