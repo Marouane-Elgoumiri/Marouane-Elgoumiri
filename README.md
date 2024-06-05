@@ -5,6 +5,7 @@
 
 </div>
 
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
 ![GitHub](https://img.shields.io/github/followers/Marouane-Elgoumiri.svg?style=social&label=Follow&maxAge=2592000])
 <p align="center">
