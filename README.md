@@ -1,13 +1,16 @@
-<!-- Header -->
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A425C8&background=0D1A3373&center=true&random=false&width=435&lines=Welcome+to+my+labyrinth+%F0%9F%98%8A;Thank+you+for+your+visit+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
+
 </div>
 
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
 
 ![GitHub](https://img.shields.io/github/followers/Marouane-Elgoumiri.svg?style=social&label=Follow&maxAge=2592000])
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/amr3k/sveltegram)
 <p align="center">
   <img src="https://res.cloudinary.com/dtp0lqhke/image/upload/v1711840066/1704226025220_lfs7uf.jpg" alt="Your Name">
 </p>
