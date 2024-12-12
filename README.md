@@ -135,7 +135,7 @@ Leveling up 🚀.
 ## 🌠 Stats
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marouane-Elgoumiri&theme=prussian&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marouane-Elgoumiri&theme=prussian&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&card_height=200&fire=EB653D&ring=EB5454&dates=EBE428)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Marouane-Elgoumiri's Stats">
 <br/>
