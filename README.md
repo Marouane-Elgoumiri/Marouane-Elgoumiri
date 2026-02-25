@@ -16,7 +16,7 @@
 </p>
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Marouane-Elgoumiri&row=1&column=8&no-bg=false&theme=radical)
+![trophy]([![trophy](https://github-profile-trophy.vercel.app/?username=Marouane-Elgoumiri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy))
 
 </div>
 
