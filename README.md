@@ -35,7 +35,7 @@ public class Developer {
     private String[] learning = {"New Technologies", "Best Practices", "System Design"};
 
     public String getCurrentFocus() {
-        return "Building scalable applications & exploring security";
+        return "Building scalable applications & exploring AI";
     }
 }
 ```
