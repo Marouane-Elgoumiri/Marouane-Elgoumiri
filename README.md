@@ -1,184 +1,224 @@
-
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A425C8&background=0D1A3373&center=true&random=false&width=435&lines=Welcome+to+my+labyrinth+%F0%9F%98%8A;Thank+you+for+your+visit+%F0%9F%A4%9D)](https://git.io/typing-svg)
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=A425C8&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+labyrinth+%F0%9F%98%8A;Software+Engineer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%92%A1)](https://git.io/typing-svg)
 
+<!-- Profile views -->
+![](https://komarev.com/ghpvc/?username=Marouane-Elgoumiri&style=for-the-badge&color=A425C8)
+[![GitHub followers](https://img.shields.io/github/followers/Marouane-Elgoumiri?style=for-the-badge&logo=github&color=A425C8)](https://github.com/Marouane-Elgoumiri)
 
-</div>
-
-
-
-![GitHub](https://img.shields.io/github/followers/Marouane-Elgoumiri.svg?style=social&label=Follow&maxAge=2592000])
+<!-- Stand with Palestine -->
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/amr3k/sveltegram)
+
+</div>
+
+<!-- Profile image -->
 <p align="center">
-  <img src="https://res.cloudinary.com/dtp0lqhke/image/upload/v1711840066/1704226025220_lfs7uf.jpg" alt="Your Name">
+  <img src="https://res.cloudinary.com/dtp0lqhke/image/upload/v1711840066/1704226025220_lfs7uf.jpg" alt="Marouane Elgoumiri" width="1500" style="border-radius: 50%;">
 </p>
+
+<!-- Trophy -->
 <div align="center">
 
-![trophy]([![trophy](https://github-profile-trophy.vercel.app/?username=Marouane-Elgoumiri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy))
+[![trophy](https://github-profile-trophy.vercel.app/?username=Marouane-Elgoumiri&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<!-- About Me -->
+---
+
 ## 🧑🏻‍💻 About Me
-Leveling up 🚀.
 
-<!-- Markdown -->
+```java
+public class Developer {
+    private String name = "Marouane Elgoumiri";
+    private String[] roles = {"Software Engineer"};
+    private String status = "Leveling up 🚀";
+    private String[] learning = {"New Technologies", "Best Practices", "System Design"};
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+    public String getCurrentFocus() {
+        return "Building scalable applications & exploring security";
+    }
+}
+```
 
-<!-- Projects -->
-## 📚 Projects
-
+<!-- Jokes -->
 <div align="center">
-  <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/Marouane-Elgoumiri/job_board">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=job_board&theme=tokyonight" alt="Job Board" style="max-width: 50px;">
-    </a>
-    <a href="https://github.com/Marouane-Elgoumiri/task_manager">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=task_manager&theme=tokyonight" alt="Task Manager" style="max-width: 50px;">
-    </a>
-  </div>
-  <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/Marouane-Elgoumiri/CodeAlpha_task1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=CodeAlpha_task1&theme=tokyonight" alt="CodeAlpha Task 1" style="max-width: 50px;">
-    </a>
-    <a href="https://github.com/Marouane-Elgoumiri/Python_Challenges">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Python_Challenges&theme=tokyonight" alt="Python Challenges" style="max-width: 50px;">
-    </a>
-  </div>
-  <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/Marouane-Elgoumiri/SolveQuiz">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=SolveQuiz&theme=tokyonight" alt="CodeAlpha Task 1" style="max-width: 50px;">
-    </a>
-    <a href="https://github.com/Marouane-Elgoumiri/Blog_App_SpringBoot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Blog_App_SpringBoot&theme=tokyonight" alt="Python Challenges" style="max-width: 50px;">
-    </a>
-  </div>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
 </div>
 
+---
 
+## 📚 Featured Projects
 
-
-<!-- Contact Me -->
-## 🛜 Social
 <div align="center">
-	
-![Doge](https://git.io/Doge)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/marouane-elgoumiri/)
+
+<a href="https://github.com/Marouane-Elgoumiri/job_board">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=job_board&theme=tokyonight&hide_border=true" alt="Job Board" width="400">
+</a>
+<a href="https://github.com/Marouane-Elgoumiri/task_manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=task_manager&theme=tokyonight&hide_border=true" alt="Task Manager" width="400">
+</a>
+
+<a href="https://github.com/Marouane-Elgoumiri/CodeAlpha_task1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=CodeAlpha_task1&theme=tokyonight&hide_border=true" alt="CodeAlpha Task 1" width="400">
+</a>
+<a href="https://github.com/Marouane-Elgoumiri/Python_Challenges">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Python_Challenges&theme=tokyonight&hide_border=true" alt="Python Challenges" width="400">
+</a>
+
+<a href="https://github.com/Marouane-Elgoumiri/SolveQuiz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=SolveQuiz&theme=tokyonight&hide_border=true" alt="SolveQuiz" width="400">
+</a>
+<a href="https://github.com/Marouane-Elgoumiri/Blog_App_SpringBoot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Blog_App_SpringBoot&theme=tokyonight&hide_border=true" alt="Blog App SpringBoot" width="400">
+</a>
+
+</div>
+
+---
+
+## 🛜 Social & Coding Platforms
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/marouane-elgoumiri/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/marouane_elgoum1)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/_MR1_)
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marouane-elgoumiri.github.io/portfolio/)<br/>
-<img src="https://tryhackme-badges.s3.amazonaws.com/marouane.elgoumi.png" alt="TryHackMe">
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/marouane.elgoumi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marouane-elgoumiri.github.io/portfolio/)
 
+<br>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/marouane.elgoumi.png" alt="TryHackMe" width="250">
 
 </div>
 
-## 🌐 Contact Me 
+---
+
+## 🌐 Contact Me
 
 <div align="center">
-	
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/marwan-el-goumiri/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marouane.elgoumiri@e-polytechnique.ma)
-[![Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:Mar.Elgoumiri@hotmail.com)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/VonWaffe/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/VonJaeger/1182321857089781912)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-el-goumiri/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marouane.elgoumiri@e-polytechnique.ma)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Mar.Elgoumiri@hotmail.com)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/VonWaffe/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/VonJaeger/1182321857089781912)
+
 </div>
+
+---
 
 ## 🛠️ Tech Stack & Tools
+
 <div align="center">
-	<table>
-		<tr>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code></td>
-			<td><code><img width="70" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code></td>
-			<td><code><img width="70" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code></td>
-		</tr>
-		<tr>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok"/></code></td>
-			<td><code><img width="70" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" alt="Hadoop" title="Hadoop"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/></code></td>
-			<td><code><img width="70" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code></td>
-			<td><code><img width="70" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code></td>
-		</tr>
-	</table>
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### ⚙️ Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
+
+### 🔧 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+
 </div>
 
-## 🌠 Stats
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marouane-Elgoumiri&theme=prussian&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&card_height=200&fire=EB653D&ring=EB5454&dates=EBE428)](https://git.io/streak-stats)
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marouane-Elgoumiri&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&fire=EB653D&ring=EB5454&dates=EBE428&background=1A1B27)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Marouane-Elgoumiri's Stats">
-<br/>
-    
-<br/>
-    
+<br>
+
+<!-- Main GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Marouane-Elgoumiri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&border_radius=10&bg_color=1A1B27" alt="Marouane-Elgoumiri's Stats" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marouane-Elgoumiri&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&bg_color=1A1B27&layout=compact" alt="Top Languages" width="49%">
+
+<br>
+
+<!-- Language stats -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marouane-Elgoumiri&count_private=true&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marouane-Elgoumiri&count_private=true&theme=tokyonight)
-<br/>
 
+<br>
+
+<!-- Profile details -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marouane-Elgoumiri&count_private=true&theme=tokyonight)
 
 </div>
 
-## 💀 Ainz's teaching:
+---
+
+## 💀 Ainz's Teaching
 
 <div align="center">
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/Marouane-Elgoumiri/Marouane-Elgoumiri/blob/main/assets/quotes.json&theme=tokyonight&animation=grow_out_in)
+[![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/Marouane-Elgoumiri/Marouane-Elgoumiri/blob/main/assets/quotes.json&theme=tokyonight&animation=grow_out_in)](https://github.com/Marouane-Elgoumiri)
 
 </div>
+
+---
 
 <div align="center">
-	
-![Giphy GIF](https://media.giphy.com/media/31ZiEo6UeSyMbuzkcE/giphy.gif)
 
-![Snake animation](https://raw.githubusercontent.com/Marouane-Elgoumiri/Marouane-Elgoumiri/output/github-contribution-grid-snake-dark.svg)
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marouane-Elgoumiri/Marouane-Elgoumiri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marouane-Elgoumiri/Marouane-Elgoumiri/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Marouane-Elgoumiri/Marouane-Elgoumiri/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br>
+
+<!-- Footer GIF -->
+<img src="https://media.giphy.com/media/31ZiEo6UeSyMbuzkcE/giphy.gif" width="900">
+
+<br>
+
+---
+
+**Made with ❤️ by MR1**
 
 </div>
-
-
-
-
-
-
-
-<a href="https://visitcount.itsvg.in">
-	
-![](https://komarev.com/ghpvc/?username=Marouane-Elgoumiri&style=flat-square)
-
-</a>
-
-<!-- Footer -->
-<footer>
-  <p align="center">Made with ❤️ by MR1</p>
-</footer>
