@@ -20,8 +20,7 @@
 <!-- Trophy -->
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Marouane-Elgoumiri&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+![trophy](https://github-trophies.vercel.app/?username=Marouane-Elgoumiri&theme=radical)
 </div>
 
 ---
