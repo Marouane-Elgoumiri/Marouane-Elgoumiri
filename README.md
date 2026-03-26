@@ -53,26 +53,44 @@ public class Developer {
 
 <div align="center">
 
-<a href="https://github.com/Marouane-Elgoumiri/job_board">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=job_board&theme=tokyonight&hide_border=true" alt="Job Board" width="400">
-</a>
-<a href="https://github.com/Marouane-Elgoumiri/task_manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=task_manager&theme=tokyonight&hide_border=true" alt="Task Manager" width="400">
-</a>
-
-<a href="https://github.com/Marouane-Elgoumiri/CodeAlpha_task1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=CodeAlpha_task1&theme=tokyonight&hide_border=true" alt="CodeAlpha Task 1" width="400">
-</a>
-<a href="https://github.com/Marouane-Elgoumiri/Python_Challenges">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Python_Challenges&theme=tokyonight&hide_border=true" alt="Python Challenges" width="400">
-</a>
-
-<a href="https://github.com/Marouane-Elgoumiri/SolveQuiz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=SolveQuiz&theme=tokyonight&hide_border=true" alt="SolveQuiz" width="400">
-</a>
-<a href="https://github.com/Marouane-Elgoumiri/Blog_App_SpringBoot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Blog_App_SpringBoot&theme=tokyonight&hide_border=true" alt="Blog App SpringBoot" width="400">
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Marouane-Elgoumiri/job_board">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=job_board&theme=tokyonight&hide_border=true" alt="Job Board" width="400">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Marouane-Elgoumiri/task_manager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=task_manager&theme=tokyonight&hide_border=true" alt="Task Manager" width="400">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Marouane-Elgoumiri/CodeAlpha_task1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=CodeAlpha_task1&theme=tokyonight&hide_border=true" alt="CodeAlpha Task 1" width="400">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Marouane-Elgoumiri/Python_Challenges">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Python_Challenges&theme=tokyonight&hide_border=true" alt="Python Challenges" width="400">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Marouane-Elgoumiri/SolveQuiz">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=SolveQuiz&theme=tokyonight&hide_border=true" alt="SolveQuiz" width="400">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Marouane-Elgoumiri/Blog_App_SpringBoot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Blog_App_SpringBoot&theme=tokyonight&hide_border=true" alt="Blog App SpringBoot" width="400">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
