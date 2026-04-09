@@ -53,46 +53,26 @@ public class Developer {
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Marouane-Elgoumiri/job_board">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=job_board&theme=tokyonight&hide_border=true" alt="Job Board" width="400">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Marouane-Elgoumiri/task_manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=task_manager&theme=tokyonight&hide_border=true" alt="Task Manager" width="400">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Marouane-Elgoumiri/CodeAlpha_task1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=CodeAlpha_task1&theme=tokyonight&hide_border=true" alt="CodeAlpha Task 1" width="400">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Marouane-Elgoumiri/Python_Challenges">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Python_Challenges&theme=tokyonight&hide_border=true" alt="Python Challenges" width="400">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Marouane-Elgoumiri/SolveQuiz">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=SolveQuiz&theme=tokyonight&hide_border=true" alt="SolveQuiz" width="400">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Marouane-Elgoumiri/Blog_App_SpringBoot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marouane-Elgoumiri&repo=Blog_App_SpringBoot&theme=tokyonight&hide_border=true" alt="Blog App SpringBoot" width="400">
-      </a>
-    </td>
-  </tr>
-</table>
+| **Job Board** | **Task Manager** |
+|:-------------:|:---------------:|
+| Full-stack job listing platform | Task management application |
+| ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) |
+| [🔗 View Project](https://github.com/Marouane-Elgoumiri/job_board) | [🔗 View Project](https://github.com/Marouane-Elgoumiri/task_manager) |
+
+| **CodeAlpha Task 1** | **Python Challenges** |
+|:--------------------:|:--------------------:|
+| Machine learning regression project | Collection of Python exercises |
+| ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [🔗 View Project](https://github.com/Marouane-Elgoumiri/CodeAlpha_task1) | [🔗 View Project](https://github.com/Marouane-Elgoumiri/Python_Challenges) |
+
+| **SolveQuiz** | **Blog App SpringBoot** |
+|:-------------:|:----------------------:|
+| Interactive quiz application | Full-stack blog platform |
+| ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| [🔗 View Project](https://github.com/Marouane-Elgoumiri/SolveQuiz) | [🔗 View Project](https://github.com/Marouane-Elgoumiri/Blog_App_SpringBoot) |
 
 </div>
+
 
 ---
 
